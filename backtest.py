@@ -38,7 +38,7 @@ warnings.filterwarnings("ignore")
 
 USE_LIVE_DATA = True    # live: yfinance + Alternative.me Fear & Greed
 
-AV_KEY = "AACB92YBMRHZDXP2"  # reserved — paste your key here
+AV_KEY = 
 
 W_PCR  = 0.40
 W_VIX  = 0.35
